@@ -1,0 +1,67 @@
+body{
+  background-color: #898AA6;
+  margin: 0;
+  text-align: center;
+}
+.top-container{
+  background-color: #C9BBCF;
+  margin: 0;
+}
+h1
+{
+ font-size :40px;
+ width: 20%;
+ margin: 0 auto 0 auto;
+ font-family: 'Open Sans', sans-serif;
+
+}
+p{
+  font-size: 40px;
+  margin-top: 6px;
+  font-family: 'Sacramento', cursive;
+}
+
+.cse{
+  font-family: 'Open Sans', sans-serif;
+  font-size: 25px;
+}
+.bottom-cloud{
+  position: absolute;
+  left :20%;
+
+}
+.top-cloud{
+  position: relative;
+  left: 20%;
+  margin-top: 6%;
+}
+.pr-pic{
+
+  height: 250px;
+}
+.lang{
+  height: 250px;
+}
+.skill
+{
+  margin: 0;
+}
+.mee{
+  margin: 0;
+}
+.btn{
+  position: relative;
+  bottom: 7px;
+}
+.footer-link{
+  height:3%;
+  width: 3%;
+
+}
+.c{
+  font-family: 'Mouse Memoirs', sans-serif;
+}
+.web
+{
+  margin-bottom: 6px;
+}
