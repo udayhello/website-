@@ -6,7 +6,9 @@ body{
 .top-container{
   background-color: #C9BBCF;
   margin: 0;
+  align:center;
 }
+
 h1
 {
  font-size :40px;
